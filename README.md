@@ -1,11 +1,11 @@
 ### --------------------(RU)
 # KPlayeer
-KPlayeer - это аналог Spotify для операционной системы [BlopOS Mobile](https://t.me/blopsoft), использующий видео на платформе Youtube.
+KPlayeer - это аналог Spotify для операционных систем [BlopOS Mobile](https://t.me/blopsoft) и [BlopTV](https://t.me/blopsoft), использующий видео на платформе Youtube.
 # Как это работает?
 Вы заходите на KPlayeer, затем открываете нужный раздел, выбираете нужное видео и начинаете слушать музыку.
 ### --------------------(ENG)
 # KPlayeer
-KPlayeer - is an analogue of Spotify for operating system [BlopOS Mobile](https://t.me/blopsoft), using video on the Youtube platform.
+KPlayeer - is an analogue of Spotify for operating systems [BlopOS Mobile](https://t.me/blopsoft) and [BlopTV](https://t.me/blopsoft), using video on the Youtube platform.
 # How it works?
 You go to KPlayeer, then open the desired section, select the desired video and start listening to music.
 ### --------------------(TASKS)
