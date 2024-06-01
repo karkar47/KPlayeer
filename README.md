@@ -11,6 +11,6 @@ You go to KPlayeer, then open the desired section, select the desired video and 
 ### --------------------(TASKS)
 - [x] ATOMIC HEART
 - [x] SIGMA PHONK
-- [ ] ДРУГОЕ (OTHER)
+- [x] ДРУГОЕ (OTHER)
 
 **ᏦᎵℓⒶᥡⓔⓔᴿ**
